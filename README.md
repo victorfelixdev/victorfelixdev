@@ -3,8 +3,8 @@
 ## Seja Bem-Vindo(a) ao meu perfil GitHub 👋
 
 
-- 🔭 Atualmente estou trabalhando em alguns projetos pessoais para estudo, principalmente com .NET e Unity.
-- 🌱 Atualmente estou aprendendo Unity.
+- 🔭 Atualmente estou trabalhando em alguns projetos pessoais para estudo.
+- 🌱 No momento meu foco de aprendizado e estudos são Unity e .NET.
 - 👯 Busco colaborar em projetos voltados para o mundo dos jogos.
 - 🤔 Estou procurando ajuda com uma recolocação no mercado como um Full Stack Software Engineer 🤓.
 
