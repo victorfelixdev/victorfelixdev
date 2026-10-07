@@ -5,7 +5,7 @@
 
 - 🔭 Atualmente estou trabalhando em alguns projetos pessoais para estudo, principalmente com .NET e Unity.
 - 🌱 Atualmente estou aprendendo Unity.
-- 👯 Estou procurando colaborar em projetos voltados para o mundo dos jogos.
+- 👯 Busco colaborar em projetos voltados para o mundo dos jogos.
 - 🤔 Estou procurando ajuda com uma recolocação no mercado como um Full Stack Software Engineer 🤓.
 
 - 📫 Como entrar em contato comigo: contato@cheesper.com | linkedin.com/in/victor-felix-dev
