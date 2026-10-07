@@ -10,8 +10,6 @@
 
 - 📫 Como entrar em contato comigo: contato@cheesper.com | linkedin.com/in/victor-felix-dev
 
-![Snake animation](https://github.com/victorfelixdev/victorfelixdev/blob/output/github-contribution-grid-snake.svg)
-
 ## Contatos:
 <div>
 <a href="https://www.twitch.tv/cheespernx" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
