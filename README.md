@@ -10,7 +10,7 @@
 
 - 📫 Como entrar em contato comigo: contato@cheesper.com | linkedin.com/in/victor-felix-dev
 
-![Snake animation](https://github.com/seu-usuário-aqui/victorfelixdev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/victorfelixdev/victorfelixdev/blob/output/github-contribution-grid-snake.svg)
 
 ## Contatos:
 <div>
