@@ -7,6 +7,7 @@
 - 🌱 No momento meu foco de aprendizado e estudos são Unity e .NET.
 - 👯 Busco colaborar em projetos voltados para o mundo dos jogos.
 - 🤔 Estou procurando ajuda com uma recolocação no mercado como um Full Stack Software Engineer 🤓.
+- 🥽 Entusiasta da Realidade Virtual (RV).
 
 - 📫 Como entrar em contato comigo: contato@cheesper.com | linkedin.com/in/victor-felix-dev
 
