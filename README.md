@@ -9,6 +9,7 @@
 - 🤔 Estou procurando ajuda com uma recolocação no mercado como um Full Stack Software Engineer 🤓.
 - 🥽 Entusiasta da Realidade Virtual (RV).
 
+
 - 📫 Como entrar em contato comigo: contato@cheesper.com | linkedin.com/in/victor-felix-dev
 
 ## Contatos:
