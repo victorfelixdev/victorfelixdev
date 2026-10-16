@@ -10,7 +10,9 @@
 - 🥽 Entusiasta da Realidade Virtual (RV).
 
 ----
-### 📫 Como entrar em contato comigo: contato@cheesper.com | [LinkedIn](http://linkedin.com/in/victor-felix-dev)
+### 🤓 Meu portfólio: cheesper.com | [Clique Aqui!](https://cheesper.com/)
+----
+### 📫 Como entrar em contato comigo: contato@cheesper.com | [LinkedIn](https://linkedin.com/in/victor-felix-dev)
 
 ## Contatos:
 <div>
